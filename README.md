@@ -1,2 +1,2 @@
 https://pythex.org/
-regular-experssion
+regular-expression
